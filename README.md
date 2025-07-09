@@ -1,4 +1,4 @@
-# bypassed-the-OTP-verification-process using "Turbo Intruder Extension" follow the steps below:
+# Bypassed-the-OTP-verification-process using "Turbo Intruder Extension" follow the steps below:
 # Step: 1
 1. You have to know the OTP length.
 2. You Have to know OTP validity time.
